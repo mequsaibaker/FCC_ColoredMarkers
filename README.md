@@ -38,4 +38,4 @@
 <p>Completed</p>
 
 <h2>Acknowledgment:</h2>
-<p>This project was undertaken as part of the curriculum offered by freeCodeCamp.org's "Responsive Web Design Certificate" program. I extend my gratitude to the freeCodeCamp community for providing invaluable resources and support throughout this learning journey.</p>
+<p>This project was created as part of the curriculum of the "Responsive Web Design Certificate" provided by freeCodeCamp.org, a non-profit organization dedicated to providing free coding education to everyone worldwide. Special thanks to the FreeCodeCamp community for their valuable resources and support.</p>
